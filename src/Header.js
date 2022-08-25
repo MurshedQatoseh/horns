@@ -5,7 +5,7 @@ import React from 'react';
 
 class Header extends React.Component {
   render() {
-    return(<h1>Animals with horns</h1>);
+    return(<h1>Animals with horn</h1>);
   }
 }
 
